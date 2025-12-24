@@ -1,3 +1,6 @@
+from logic_blocks.faq_answer_block import generate_faq_answer
+
+
 def faq_template(product, questions):
     faqs = []
 
@@ -5,7 +8,7 @@ def faq_template(product, questions):
         for q in qs:
             faqs.append({
                 "question": q,
-                "answer": "Answer derived from product information"
+                "answer": generate_faq_answer(q, product)
             })
 
     return {

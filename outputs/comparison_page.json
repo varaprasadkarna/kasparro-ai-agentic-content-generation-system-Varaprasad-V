@@ -2,16 +2,16 @@
   "page_type": "Comparison Page",
   "comparison": {
     "product_a": {
-      "name": "GlowBoost Vitamin C Serum",
+      "name": "AquaFresh Niacinamide Serum",
       "ingredients": [
-        "Vitamin C",
-        "Hyaluronic Acid"
+        "Niacinamide",
+        "Ceramides"
       ],
       "benefits": [
-        "Brightening",
-        "Fades dark spots"
+        "Hydration",
+        "Barrier repair"
       ],
-      "price": 699
+      "price": 599
     },
     "product_b": {
       "name": "RadiantGlow Serum",

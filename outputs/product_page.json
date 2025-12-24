@@ -1,29 +1,29 @@
 {
   "page_type": "Product Page",
-  "product_name": "GlowBoost Vitamin C Serum",
-  "concentration": "10% Vitamin C",
+  "product_name": "AquaFresh Niacinamide Serum",
+  "concentration": "5% Niacinamide",
   "skin_type": [
-    "Oily",
-    "Combination"
+    "Dry",
+    "Sensitive"
   ],
   "ingredients": [
-    "Vitamin C",
-    "Hyaluronic Acid"
+    "Niacinamide",
+    "Ceramides"
   ],
   "benefits": {
     "title": "Key Benefits",
     "items": [
-      "Brightening",
-      "Fades dark spots"
+      "Hydration",
+      "Barrier repair"
     ]
   },
   "usage": {
     "title": "How to Use",
-    "instructions": "Apply 2\u20133 drops in the morning before sunscreen"
+    "instructions": "Apply at night after cleansing"
   },
   "safety": {
     "title": "Safety Information",
-    "side_effects": "Mild tingling for sensitive skin"
+    "side_effects": "None reported"
   },
-  "price": 699
+  "price": 599
 }
